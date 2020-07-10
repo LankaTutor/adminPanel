@@ -1,0 +1,11 @@
+.logo {
+    height: 40px;
+    width: 40px;
+    align-content: center;
+    align-items: inherit;
+}
+
+.font_header{
+    font-size: x-large;
+    font-weight: 500;
+}
